@@ -280,8 +280,8 @@ header .fa-times{
 }
 
 .about .row .image img{
-    height: auto;
-    width: 100%;
+    height: 70vh;
+    width: 50vw;
     max-width: 100%;
 }
 
